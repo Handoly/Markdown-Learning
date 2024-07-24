@@ -8,6 +8,7 @@
 
 ```bash
 git add "README.md"
+git commit -m "增添内容"
 git branch -M main
 git push -u origin main
 ```
