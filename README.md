@@ -34,6 +34,16 @@
 
 ### 1.插入图片
 
+#### 	(1) 设置图片位置
+
+```html
+<div align=left>
+<img src=https://i-blog.csdnimg.cn/blog_migrate/c6399f8f84b8620b533da4dfb3b17e35.png />
+</div>
+```
+
+参考：[Markdown 调整图片位置与大小_markdown 图片-CSDN博客](https://blog.csdn.net/k346k346/article/details/108162853)
+
 ### 2.设置字体颜色
 
 `<font color=Blue>Test</font>` ：例如：<font color=Blue>Test</font> 
