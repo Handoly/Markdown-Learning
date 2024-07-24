@@ -4,6 +4,16 @@
 
 本仓库用来存放学习`Markdown`的一些操作方法与技巧。
 
+本仓库的`README.md`文件更改后简易的提交代码：(直接复制粘贴到`Git Bash`命令行即可)
+
+```bash
+git add "README.md"
+git branch -M main
+git push -u origin main
+```
+
+
+
 ## 二、常用快捷键
 
 - `ctrl+0` ：段落  
@@ -34,7 +44,7 @@
 
 ### 1.插入图片
 
-#### 	(1) 设置图片位置
+#### 	（1）设置图片位置
 
 ```html
 <div align=left>
@@ -43,6 +53,10 @@
 ```
 
 参考：[Markdown 调整图片位置与大小_markdown 图片-CSDN博客](https://blog.csdn.net/k346k346/article/details/108162853)
+
+#### （2）上传到github无法显示的问题 
+
+参考：[【git】Github 上的 markdown 文件怎么上传并显示图片？_markdown怎么上传图片-CSDN博客](https://blog.csdn.net/wzk4869/article/details/131150140)
 
 ### 2.设置字体颜色
 
